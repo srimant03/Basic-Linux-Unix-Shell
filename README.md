@@ -59,8 +59,9 @@ Steps to run the program:-
 3) Run the following command: ./shell
 4) make clean; after exiting the program
 
-//For thread based execution; enter "&t" after the command.
-//The program should be run preferably in unix based system
+Notes:
+For thread based execution; enter "&t" after the command.
+The program should be run preferably in unix based system
 
 
 
